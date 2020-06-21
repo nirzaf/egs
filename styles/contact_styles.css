@@ -967,6 +967,8 @@ section
 .footer_list_item
 {
 	margin-bottom: 11px;
+	align-items: center;
+	align-content: center;
 }
 .footer_list_item a
 {
