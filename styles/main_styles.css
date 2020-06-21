@@ -910,7 +910,7 @@ section
 {
 
 }
-.course_boxes
+.EGS_boxes
 {
 	margin-top: 68px;
 }
@@ -962,14 +962,14 @@ section
 	margin-top: 41px;
 	padding-left: 35px;
 }
-.course_author_image
+.EGS_author_image
 {
 	width: 46px;
 	height: 46px;
 	border-radius: 50%;
 	overflow: hidden;
 }
-.course_author_name
+.EGS_author_name
 {
 	font-size: 14px;
 	font-weight: 500;
@@ -977,18 +977,18 @@ section
 	padding-left: 20px;
 	margin-top: 7px;
 }
-.course_author_name span
+.EGS_author_name span
 {
 	color: #a5a5a5;
 }
-.course_price
+.EGS_price
 {
 	width: 67px;
 	height: 67px;
 	background: #ffb606;
 	margin-left: auto;
 }
-.course_price span
+.EGS_price span
 {
 	color: #FFFFFF;
 	font-size: 18px;
